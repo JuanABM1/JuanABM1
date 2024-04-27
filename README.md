@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Brito</h1>
 <h3 align="center">A passionate student of cross-platform application development</h3>
 
-- 🔭 I’m currently working on **A discord bot made with Python**
-
 - 🌱 I’m currently learning **Java, Python, MySql and web page development**
 
 - 💬 Ask me about **Java or Python**
