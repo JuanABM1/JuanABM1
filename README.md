@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jabritomar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1efYhLadHgdZbaPcQgnAGmrTdjV0qoo2Q/view?usp=drive_link](https://sites.google.com/politecnics.barcelona/juanbrito/presentaci%C3%B3n)
+- 📄 Know about my experiences in my [Portfolio](https://sites.google.com/politecnics.barcelona/juanbrito/presentaci%C3%B3n)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
